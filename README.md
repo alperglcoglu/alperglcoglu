@@ -4,16 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=alperglcoglu&color=blue" alt="Profile Views" />
 </p>
 
-<!-- Solda Kedi, Ortada Yazı, Sağda Eat Sleep Code Repeat (Simetrik Hiza) -->
-<div align="center">
-  <img src="GitHub Mascot Cat Ears.gif" height="120" alt="Mascot Cat Ears">
-  
+<!-- Solda Kedi, Ortada Yazı, Sağda GIF (Büyütüldü ve aralara boşluk eklendi) -->
+<p align="center">
+  <img src="GitHub Mascot Cat Ears.gif" width="160" alt="Mascot Cat Ears">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alperglcoglu">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=450&lines=%e2%9c%a8+Alper+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%2F+Embedded+Dev+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
   </a>
-  
-  <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" height="120" alt="Eat Sleep Code Repeat">
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" width="160" alt="Eat Sleep Code Repeat">
+</p>
 
 <h3 align="left">&nbsp; A passionate Data Scientist / Embedded Developer Working on Edge AI</h3>
 
@@ -29,16 +29,19 @@
 </p>
 
 # 💻 Languages and Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?style=for-the-badge&logo=ubuntu)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <br><br>
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?style=for-the-badge&logo=ubuntu" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
 
 <br>
 
