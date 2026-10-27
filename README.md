@@ -4,17 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=alperglcoglu&color=blue" alt="Profile Views" />
 </p>
 
-<!-- Kediler Profile Views'un hemen altında, kayan yazının iki yanında simetrik -->
+<!-- Solda Kedi, Ortada Yazı, Sağda Eat Sleep Code Repeat (Simetrik Hiza) -->
 <div align="center">
- <img src="GitHub Mascot Cat Ears.gif" width="50" alt="Mascot Cat Ears Left">
- <a href="https://github.com/alperglcoglu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%e2%9c%a8+Alper+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%2F+Embedded+Dev+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
- <img src="GitHub Mascot Cat Ears.gif" width="50" alt="Mascot Cat Ears Right">
-</div>
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" alt="Coding" width="150" height="150">
+  <img src="GitHub Mascot Cat Ears.gif" height="120" alt="Mascot Cat Ears">
+  
+  <a href="https://github.com/alperglcoglu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=450&lines=%e2%9c%a8+Alper+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%2F+Embedded+Dev+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  </a>
+  
+  <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" height="120" alt="Eat Sleep Code Repeat">
 </div>
 
 <h3 align="left">&nbsp; A passionate Data Scientist / Embedded Developer Working on Edge AI</h3>
@@ -23,7 +21,7 @@
 
 - 💬 Ask me about **Machine Learning, C/C++, and Python**
 
-- 📫 How to reach me: **@**
+- 📫 How to reach me: **[LinkedIn Profilim](https://linkedin.com/in/alpergulcuoglu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
