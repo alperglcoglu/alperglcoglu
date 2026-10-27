@@ -4,10 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=alperglcoglu&color=blue" alt="Profile Views" />
 </p>
 
+<!-- Kediler Profile Views'un hemen altında, kayan yazının iki yanında simetrik -->
 <div align="center">
+ <img src="GitHub Mascot Cat Ears.gif" width="50" alt="Mascot Cat Ears Left">
  <a href="https://github.com/alperglcoglu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%e2%9c%a8+Alper+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%2F+Embedded+Dev+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
+ <img src="GitHub Mascot Cat Ears.gif" width="50" alt="Mascot Cat Ears Right">
 </div>
 
 <div align="right">
@@ -20,17 +23,11 @@
 
 - 💬 Ask me about **Machine Learning, C/C++, and Python**
 
-- 📫 How to reach me: **[LinkedIn Profilim](https://linkedin.com/in/alpergulcuoglu)**
+- 📫 How to reach me: **@**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Sol taraftaki maskot -->
-  <img src="GitHub Mascot Cat Ears.gif" width="40" alt="Mascot Cat Ears">
-  
   <a href="https://linkedin.com/in/alpergulcuoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpergulcuoglu" height="30" width="40" /></a>
-  
-  <!-- Sağ taraftaki maskot -->
-  <img src="GitHub Mascot Tekno.gif" width="40" alt="Mascot Tekno">
 </p>
 
 # 💻 Languages and Tools:
