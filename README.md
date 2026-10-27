@@ -1,23 +1,23 @@
 <img src="github-banner.png" alt="Welcome to my GitHub Profile" width="100%">
 
-<!-- Ziyaretçi Sayacı (Bozuk görünüm HTML ile düzeltildi) -->
+<!-- Ziyaretçi Sayacı -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alperglcoglu&color=blue" alt="Profile Views" />
 </p>
 
 <div align="center">
  <a href="https://github.com/alperglcoglu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%e2%9c%a8+Alper+Gulcuoglu+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%2F+Embedded+Dev+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%e2%9c%a8+Alper+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%2F+Embedded+Dev+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
-<!-- Animasyonlu GIF'ler (Sağ üstte yan yana duracaklar) -->
+<!-- Animasyonlu GIF'ler (Sağ üst) -->
 <div align="right">
   <!-- Eat Sleep Code Repeat GIF -->
   <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" alt="Coding" width="150" height="150">
   
-  <!-- Robot AI GIF (İstemezseniz bu satırı silebilirsiniz) -->
-  <img src="https://media.giphy.com/media/JtwMddKpsF9Hq/giphy.gif" alt="AI Robot" width="150" height="150">
+  <!-- AI / Tech GIF -->
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="AI Robot" width="150" height="150">
 </div>
 
 <h3 align="left">&nbsp; A passionate Data Scientist / Embedded Developer Working on Edge AI</h3>
@@ -26,17 +26,17 @@
 
 - 💬 Ask me about **Machine Learning, C/C++, and Python**
 
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/alpergulcuoglu)**
+- 📫 How to reach me: **[LinkedIn Profilim](https://linkedin.com/in/alpergulcuoglu)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Kedi GIF (Sol) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bongo-cat.gif" width="40" alt="bongo cat">
   
   <a href="https://linkedin.com/in/alpergulcuoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpergulcuoglu" height="30" width="40" /></a>
   
   <!-- Kedi GIF (Sağ) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bongo-cat.gif" width="40" alt="bongo cat">
 </p>
 
 # 💻 Languages and Tools:
