@@ -4,16 +4,23 @@
   <img src="https://komarev.com/ghpvc/?username=alperglcoglu&color=blue" alt="Profile Views" />
 </p>
 
-<!-- Solda Kedi, Ortada Yazı, Sağda GIF (Büyütüldü ve aralara boşluk eklendi) -->
-<p align="center">
-  <img src="GitHub Mascot Cat Ears.gif" width="160" alt="Mascot Cat Ears">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/alperglcoglu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=450&lines=%e2%9c%a8+Alper+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%2F+Embedded+Dev+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" width="160" alt="Eat Sleep Code Repeat">
-</p>
+<!-- Görselleri birbirini ezmemesi için görünmez tablo içine aldık -->
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="GitHub Mascot Cat Ears.gif" width="140" alt="Mascot Cat Ears">
+    </td>
+    <td align="center" style="border: none; padding: 0 10px;">
+      <a href="https://github.com/alperglcoglu">
+        <!-- SVG Genişliği (550) artırıldı, font boyutu (24) metne tam oturacak şekilde ayarlandı -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=550&lines=%e2%9c%a8+Alper+%e2%9c%a8;%f0%9f%93%9a+Data+Scientist+%2F+Embedded+Dev+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 0 10px;">
+      <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" width="140" alt="Eat Sleep Code Repeat">
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">&nbsp; A passionate Data Scientist / Embedded Developer Working on Edge AI</h3>
 
