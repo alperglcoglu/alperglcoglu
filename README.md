@@ -3,7 +3,7 @@
 <p align="center">
   <img src="GitHub%20Mascot%20Cat%20Ears.gif" height="110" alt="">
   <a href="https://github.com/alperglcoglu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Alper+%F0%9F%91%8B;Embedded+Software+Engineer;Edge+AI+%2F+TinyML+on+Microcontrollers;Bare-metal+C+%E2%80%A2+RTOS+%E2%80%A2+DSP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Alper+Gulcuoglu+%E2%9C%A8;Welcome+To+My+Profile+%f0%9f%91%80;Embedded+Software+Engineer;Edge+AI+%2F+TinyML+on+Microcontrollers" alt="Typing SVG" />
   </a>
   <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" height="110" alt="">
 </p>
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Electronics & Communication Engineering student at **Yıldız Technical University**, building intelligence that runs *on the device* — from register-level firmware to TinyML models on microcontrollers.
+Electronics & Communication Engineering graduate, building intelligence that runs *on the device* — from register-level firmware to TinyML models on microcontrollers.
 
 - 🔧 Embedded software intern @ **Defense Industry** 
 - 🌍 Exchange student in **Sweden** · IoT Research intern in **Madrid**
