@@ -1,6 +1,5 @@
 <img src="github-banner.png" alt="Welcome to my GitHub Profile" width="100%">
 
-<!-- Ziyaretçi Sayacı -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alperglcoglu&color=blue" alt="Profile Views" />
 </p>
@@ -11,13 +10,8 @@
  </a>
 </div>
 
-<!-- Animasyonlu GIF'ler (Sağ üst) -->
 <div align="right">
-  <!-- Eat Sleep Code Repeat GIF -->
   <img src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/main/img/EatSleepCodeRepeat.gif" alt="Coding" width="150" height="150">
-  
-  <!-- AI / Tech GIF -->
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="AI Robot" width="150" height="150">
 </div>
 
 <h3 align="left">&nbsp; A passionate Data Scientist / Embedded Developer Working on Edge AI</h3>
@@ -30,13 +24,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Kedi GIF (Sol) -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bongo-cat.gif" width="40" alt="bongo cat">
+  <!-- Sol taraftaki maskot -->
+  <img src="GitHub Mascot Cat Ears.gif" width="40" alt="Mascot Cat Ears">
   
   <a href="https://linkedin.com/in/alpergulcuoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpergulcuoglu" height="30" width="40" /></a>
   
-  <!-- Kedi GIF (Sağ) -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bongo-cat.gif" width="40" alt="bongo cat">
+  <!-- Sağ taraftaki maskot -->
+  <img src="GitHub Mascot Tekno.gif" width="40" alt="Mascot Tekno">
 </p>
 
 # 💻 Languages and Tools:
