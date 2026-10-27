@@ -32,6 +32,18 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
+<!-- Yılan Animasyonu (Karanlık/Aydınlık Mod Destekli) -->
+<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alperglcoglu/alperglcoglu/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alperglcoglu/alperglcoglu/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alperglcoglu/alperglcoglu/output/dist/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+<br>
+
+<!-- İstatistikler -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperglcoglu&show_icons=true&locale=en&layout=compact" alt="alperglcoglu" /></p>
 
 <br><br><br><br><br><br>
